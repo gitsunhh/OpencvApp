@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="Opencv_App">
+    <file>icons/branch-close.png</file>
+    <file>icons/branch-open.png</file>
+    <file>icons/color.png</file>
+    <file>icons/main.png</file>
+    <file>icons/右旋转.png</file>
+    <file>icons/直方图.png</file>
+    <file>icons/左旋转.png</file>
+  </qresource>
+</RCC>
